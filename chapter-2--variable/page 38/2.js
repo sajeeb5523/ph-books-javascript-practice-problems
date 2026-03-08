@@ -1,0 +1,6 @@
+// তুই এই বছর যে কয়টা বই পড়ার পরিকল্পনা করছস, সেটাকে booksToRead নামে একটি ভেরিয়েবলে রাখ। পরে booksToRead-এর মান কনসোলে আউটপুট দেখা।
+
+
+
+const booksToRead = 12;
+console.log(booksToRead);
