@@ -1,0 +1,10 @@
+// ধর, তুই 100 টাকা আয় করেছিস। তার মধ্যে 40 টাকা খরচ করছিস। বাকি টাকা কত রইল, সেটা বের করার একটা প্রোগ্রাম লিখ।
+
+
+
+const totalMoney = 100;
+const spentMoney = 40;
+
+const remainingMoney = totalMoney - spentMoney;
+
+console.log(remainingMoney);
