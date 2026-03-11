@@ -1,0 +1,9 @@
+// তুই আর তোর ছোট ভাইয়ের মধ্যে খাবার কে বেশি খেয়েছে, সেটা তুলনা করবি। তুই 7টা স্যান্ডউইচ খেয়েছিস, আর তোর ছোট ভাই 5টা খেয়েছে। একটা প্রোগ্রাম লিখে দেখ, কে বেশি খেয়েছে।
+
+
+
+const amrSandwich = 7;
+const chotoBhaiSandwich = 5;
+
+(amrSandwich > chotoBhaiSandwich) && console.log("ami beshi khaichi.");
+(chotoBhaiSandwich > amrSandwich) && console.log("choto bhai beshi khaiche."); 
