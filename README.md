@@ -27,6 +27,14 @@ This chapter covers JavaScript variable declaration and usage.
 - Declare address string variable
 - String data type with console.log()
 
+#### Page 42: Boolean Variables
+- Declare boolean variable for happiness status
+- Boolean data type with console.log()
+
+#### Page 47: Arithmetic Operations
+- Calculate remaining money after expenses
+- Basic subtraction operations with variables
+
 </details>
 
 ## File Structure
@@ -44,11 +52,21 @@ ph-books-javascript-practice-problems/
 │   │   ├── 2.js
 │   │   ├── ...
 │   │   └── 7.js
-│   └── page 41/
-│       ├── 1.js
-│       ├── 2.js
+│   ├── page 41/
+│   │   ├── 1.js
+│   │   ├── 2.js
+│   │   ├── ...
+│   │   └── 7.js
+│   ├── page 42/
+│   │   ├── 1.js
+│   │   ├── 2.js
+│   │   ├── ...
+│   │   └── 7.js
+│   └── page 47/
+│       ├── 01.js
+│       ├── 02.js
 │       ├── ...
-│       └── 7.js
+│       └── 10.js
 └── README.md
 ```
 
