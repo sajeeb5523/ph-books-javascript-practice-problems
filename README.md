@@ -73,6 +73,9 @@ This chapter covers JavaScript data types and type conversion.
 
 ## File Structure
 
+<details>
+<summary>Click to expand file structure</summary>
+
 ```
 ph-books-javascript-practice-problems/
 ├── chapter-2--variable/
@@ -130,9 +133,10 @@ ph-books-javascript-practice-problems/
 └── README.md
 ```
 
+</details>
+
 ## Author
 
 **Md. Sajeeb Al Jabed**
 - 📧 Email: sajeebaljabed1@gmail.com
 - 📱 WhatsApp: +8801571595523
-- 💼 LinkedIn: https://www.linkedin.com/in/sajeebaljabed5523/
