@@ -71,6 +71,25 @@ This chapter covers JavaScript data types and type conversion.
 
 </details>
 
+### Chapter 4: Comparison
+
+This chapter covers JavaScript comparison operators and logical operations.
+
+<details>
+<summary>Click to expand Chapter 4 exercises</summary>
+
+#### Page 68: Greater Than Comparison
+- Compare values using greater than operator
+
+#### Page 70: Less Than or Equal Comparison
+- Use less than or equal operator
+
+#### Page 73: Equality Operators
+- Compare == vs === operators
+- Type coercion in comparisons
+
+</details>
+
 ## File Structure
 
 <details>
@@ -126,6 +145,22 @@ ph-books-javascript-practice-problems/
 │   │   ├── ...
 │   │   └── 7.js
 │   └── page 64/
+│       ├── 1.js
+│       ├── 2.js
+│       ├── ...
+│       └── 7.js
+├── chapter-4--comparison/
+│   ├── page 68/
+│   │   ├── 1.js
+│   │   ├── 2.js
+│   │   ├── ...
+│   │   └── 7.js
+│   ├── page 70/
+│   │   ├── 1.js
+│   │   ├── 2.js
+│   │   ├── ...
+│   │   └── 8.js
+│   └── page 73/
 │       ├── 1.js
 │       ├── 2.js
 │       ├── ...
