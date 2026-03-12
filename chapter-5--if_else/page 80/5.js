@@ -1,0 +1,13 @@
+// তোর ফ্রিজের ভেতর ডিমের সংখ্যা 12-এর বেশি অথবা মুরগি না থাকে, তাহলে তুই ডিমের কোরমা রান্না করবি। আর না হলে পাউরুটি আর কলা খাবি। এমন একটা কোড লিখ।
+
+
+
+const numberOfEgg = 13;
+const hasChicken = true;
+
+if (numberOfEgg > 12 || hasChicken == false) {
+    console.log("dimer korma ranna korbo");
+}
+else { 
+    console.log("pauruti ar kola khabo");
+}
