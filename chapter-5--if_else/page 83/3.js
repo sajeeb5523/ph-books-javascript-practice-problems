@@ -1,0 +1,15 @@
+// যদি কারো ব্যাংক একাউন্টে ব্যালেন্স 1000 টাকার কম হয়, তাহলে বলবি, "ডিপোজিট কর।" 1000 থেকে 5000-এর মধ্যে হলে বলবি, "বিন্দাস লাইফ এনজয় কর।" আর 5000-এর বেশি হলে বলবি, "তুই ধনী, আমাকে বিয়া কর।"
+
+
+
+const bankAccountBalance = 2500;
+
+if (bankAccountBalance < 1000) {
+    console.log("deposit koro");
+}
+else if (bankAccountBalance >= 1000 && bankAccountBalance <= 5000) {
+    console.log("bindas life enjoy kor");
+}
+else {
+    console.log("tui dhoni amke biya kor");
+}
