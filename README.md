@@ -90,6 +90,37 @@ This chapter covers JavaScript comparison operators and logical operations.
 
 </details>
 
+### Chapter 5: If-Else
+
+This chapter covers JavaScript conditional statements and control flow.
+
+<details>
+<summary>Click to expand Chapter 5 exercises</summary>
+
+#### Page 77: Basic If-Else
+- Simple if-else conditions
+- Time-based conditional logic
+- Basic decision making
+
+#### Page 80: Multiple Conditions with AND
+- Use logical AND operator
+- Multiple condition checking
+
+#### Page 83: If-Else If Ladder
+- Multiple discount tiers
+- Conditional discount calculation
+- Nested conditional logic
+
+#### Page 86: Nested If-Else
+- Nested conditional statements
+- Invitation and money checking
+
+#### Page 90: Ternary Operator
+- Use ternary operator for concise conditions
+- One-line conditional expressions
+
+</details>
+
 ## File Structure
 
 <details>
@@ -161,6 +192,32 @@ ph-books-javascript-practice-problems/
 │   │   ├── ...
 │   │   └── 8.js
 │   └── page 73/
+│       ├── 1.js
+│       ├── 2.js
+│       ├── ...
+│       └── 7.js
+├── chapter-5--if_else/
+│   ├── page 77/
+│   │   ├── 1.js
+│   │   ├── 2.js
+│   │   ├── ...
+│   │   └── 6.js
+│   ├── page 80/
+│   │   ├── 1.js
+│   │   ├── 2.js
+│   │   ├── ...
+│   │   └── 9.js
+│   ├── page 83/
+│   │   ├── 1.js
+│   │   ├── 2.js
+│   │   ├── ...
+│   │   └── 7.js
+│   ├── page 86/
+│   │   ├── 1.js
+│   │   ├── 2.js
+│   │   ├── ...
+│   │   └── 5.js
+│   └── page 90/
 │       ├── 1.js
 │       ├── 2.js
 │       ├── ...
