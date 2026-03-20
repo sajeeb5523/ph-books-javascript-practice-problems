@@ -1,0 +1,8 @@
+// তুই যদি পরীক্ষায় পাস করিস, তাহলে "Party time" দেখাবি। আর যদি ফেল করিস, তাহলে "Next Semester e serious study korbo" দেখাবি। এক লাইনে টার্নারি অপারেটর দিয়ে কর।
+
+
+
+const isExamPass = true;
+
+const result = isExamPass == true ? "Party time" : "Next Semester e serious study korbo";
+console.log(result);

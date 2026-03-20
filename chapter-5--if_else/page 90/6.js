@@ -1,0 +1,7 @@
+// যদি sunny ভেরিয়েবলের মান false হয়, তাহলে "Stay home"-কে কনসোল লগ করবি।
+
+
+
+const sunny = false;
+
+sunny == false ? console.log("Stay home") : null;
