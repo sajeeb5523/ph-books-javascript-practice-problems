@@ -121,6 +121,33 @@ This chapter covers JavaScript conditional statements and control flow.
 
 </details>
 
+### Chapter 6: Array
+
+This chapter covers JavaScript arrays and array manipulation methods.
+
+<details>
+<summary>Click to expand Chapter 6 exercises</summary>
+
+#### Page 93: Array Creation
+- Create arrays with numbers
+- Basic array declaration
+
+#### Page 96: Array Index Access
+- Access array elements by index
+- Get specific elements from array
+
+#### Page 99: Adding Elements to Array
+- Use push() method
+- Add elements to array end
+- Modify arrays dynamically
+
+#### Page 102: Checking Array Elements
+- Use includes() method
+- Check if element exists in array
+- Conditional array checking
+
+</details>
+
 ## File Structure
 
 <details>
@@ -222,6 +249,27 @@ ph-books-javascript-practice-problems/
 │       ├── 2.js
 │       ├── ...
 │       └── 7.js
+├── chapter-6--array/
+│   ├── page 93/
+│   │   ├── 1.js
+│   │   ├── 2.js
+│   │   ├── ...
+│   │   └── 7.js
+│   ├── page 96/
+│   │   ├── 1.js
+│   │   ├── 2.js
+│   │   ├── ...
+│   │   └── 7.js
+│   ├── page 99/
+│   │   ├── 1.js
+│   │   ├── 2.js
+│   │   ├── ...
+│   │   └── 5.js
+│   └── page 102/
+│       ├── 1.js
+│       ├── 2.js
+│       ├── ...
+│       └── 6.js
 └── README.md
 ```
 
