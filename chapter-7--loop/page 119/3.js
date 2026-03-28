@@ -1,0 +1,14 @@
+// এখন তোর প্রবলেম হলো 1 থেকে 40 পর্যন্ত যে সকল সংখ্যা 13 দিয়ে বিভাজ্য, তাদের যোগফল কর। 
+
+
+
+let sum = 0;
+
+for (let num = 1; num <= 40; num++) {
+    if (num % 13 == 0) {
+        console.log(num);
+        sum = sum + num;
+    }
+}
+
+console.log("Sum: ", sum);
