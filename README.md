@@ -148,6 +148,40 @@ This chapter covers JavaScript arrays and array manipulation methods.
 
 </details>
 
+### Chapter 7: Loop
+
+This chapter covers JavaScript loops and iteration methods.
+
+<details>
+<summary>Click to expand Chapter 7 exercises</summary>
+
+#### Page 105: For...of Loop
+- Use for...of loop with arrays
+- Iterate over array elements
+
+#### Page 109: While Loop Basic
+- Basic while loop usage
+- Loop with counter
+
+#### Page 111: While Loop Range
+- While loop with number ranges
+- Loop condition control
+
+#### Page 114: For Loop Range
+- Basic for loop syntax
+- For loop initialization and increment
+
+#### Page 119: Loop with Conditions
+- Loop with conditional statements
+- Modulus operator in loops
+
+#### Page 122: Break Statement
+- Use break to exit loops
+- Early loop termination
+- Controlled loop execution
+
+</details>
+
 ## File Structure
 
 <details>
@@ -266,6 +300,36 @@ ph-books-javascript-practice-problems/
 │   │   ├── ...
 │   │   └── 5.js
 │   └── page 102/
+│       ├── 1.js
+│       ├── 2.js
+│       ├── ...
+│       └── 6.js
+├── chapter-7--loop/
+│   ├── page 105/
+│   │   ├── 1.js
+│   │   ├── 2.js
+│   │   ├── ...
+│   │   └── 5.js
+│   ├── page 109/
+│   │   ├── 1.js
+│   │   ├── 2.js
+│   │   ├── ...
+│   │   └── 5.js
+│   ├── page 111/
+│   │   ├── 1.js
+│   │   ├── 2.js
+│   │   ├── ...
+│   │   └── 5.js
+│   ├── page 114/
+│   │   ├── 1.js
+│   │   ├── 2.js
+│   │   └── 3.js
+│   ├── page 119/
+│   │   ├── 1.js
+│   │   ├── 2.js
+│   │   ├── ...
+│   │   └── 6.js
+│   └── page 122/
 │       ├── 1.js
 │       ├── 2.js
 │       ├── ...
