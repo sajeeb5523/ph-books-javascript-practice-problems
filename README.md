@@ -182,6 +182,31 @@ This chapter covers JavaScript loops and iteration methods.
 
 </details>
 
+### Chapter 8: Object
+
+This chapter covers JavaScript objects and object manipulation methods.
+
+<details>
+<summary>Click to expand Chapter 8 exercises</summary>
+
+#### Page 126: Object Creation
+- Create objects with properties
+- Basic object declaration
+
+#### Page 131: Object Property Access
+- Access object properties with dot notation
+- Get specific object values
+
+#### Page 137: Object Iteration
+- Iterate over object keys and values
+- Use for...in loop with objects
+
+#### Page 139: Object Freezing & Sealing
+- Use Object.freeze() method
+- Use Object.seal() method
+
+</details>
+
 ## File Structure
 
 <details>
@@ -330,6 +355,27 @@ ph-books-javascript-practice-problems/
 │   │   ├── ...
 │   │   └── 6.js
 │   └── page 122/
+│       ├── 1.js
+│       ├── 2.js
+│       ├── ...
+│       └── 6.js
+├── chapter-8--object/
+│   ├── page 126/
+│   │   ├── 1.js
+│   │   ├── 2.js
+│   │   ├── ...
+│   │   └── 7.js
+│   ├── page 131/
+│   │   ├── 1.js
+│   │   ├── 2.js
+│   │   ├── ...
+│   │   └── 8.js
+│   ├── page 137/
+│   │   ├── 1.js
+│   │   ├── 2.js
+│   │   ├── ...
+│   │   └── 9.js
+│   └── page 139/
 │       ├── 1.js
 │       ├── 2.js
 │       ├── ...
